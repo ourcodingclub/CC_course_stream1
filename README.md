@@ -1,5 +1,5 @@
-# stats from Scratch
-## Stream 1 of Coding Club's *Data Science for Ecologists and Environmental Scientists* course
+# Stats from Scratch
+### Stream 1 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
 Here you will find all the course materials for the "Stats from Scratch" stream of our Data Science course, e.g. the datasets used in the tutorials, and occasionally some starter scripts. 
 
@@ -23,16 +23,17 @@ You will notice that the tutorial folders have been numbered; this is only a sug
 
 The online tutorials that are currently part of this stream are:
 
-+ https://ourcodingclub.github.io/2016/11/13/intro-to-r.html
-+ https://ourcodingclub.github.io/2016/11/15/troubleshooting.html
-+ https://ourcodingclub.github.io/2017/04/25/etiquette.html
-+ https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html
-+ https://ourcodingclub.github.io/2017/02/28/modelling.html
-+ https://ourcodingclub.github.io/2017/01/29/datavis.html
++ <a href= "https://ourcodingclub.github.io/2016/11/13/intro-to-r.html" target="_blank"> Getting started with R & RStudio </a>
++ <a href= "https://ourcodingclub.github.io/2016/11/15/troubleshooting.html" target="_blank"> Troubleshooting and how to find help </a>
++ <a href= "https://ourcodingclub.github.io/2017/04/25/etiquette.html" target="_blank"> Coding Etiquette </a>
++ <a href= "https://ourcodingclub.github.io/2017/01/06/data-manip-intro.html" target="_blank"> Basic data manipulation </a>
++ <a href= "https://ourcodingclub.github.io/2017/02/28/modelling.html" target="_blank"> Intro to linear models </a>
++ <a href= "https://ourcodingclub.github.io/2017/01/29/datavis.html" target="_blank"> Data visualisation I </a>
 
+This course is created by the <a href="https://ourcodingclub.github.io" target="_blank"> Coding Club </a> with support from the <a href="https://www.ed.ac.uk/" target="_blank"> University of Edinburgh </a> and the <a href="https://www.thedatalab.com/" target="_blank"> Data Lab </a>. 
 
-This course is created by the Coding Club with support from the University of Edinburgh and the Data Lab. 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
-LICENCE
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 
