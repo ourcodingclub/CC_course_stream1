@@ -1,4 +1,4 @@
-# CC-8-Modelling
+# From distributions to linear models
 
 ### Intro tutorial to general and generalised linear models, available here https://ourcodingclub.github.io/2017/02/28/modelling.html
 
