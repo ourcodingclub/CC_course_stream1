@@ -1,4 +1,4 @@
-# CC-etiquette
+# Coding Etiquette
 
 This repository contains the files necessary to complete Coding Club's tutorial on coding etiquette - you can check it out at https://ourcodingclub.github.io/2017/04/25/etiquette.html
 
