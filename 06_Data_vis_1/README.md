@@ -1,4 +1,6 @@
-# CC-4-Datavis
+# Beautiful and informative data visualisation
+
+This repository contains the data for our first data visualisation tutorial: https://ourcodingclub.github.io/2017/01/29/datavis.html
 
 Living Planet Index data http://www.livingplanetindex.org/home/index used to complete Coding Club's data visualisation tutorial
 
