@@ -1,5 +1,5 @@
 # Stats from Scratch
-### Stream 1 of Coding Club's <a href="https://ourcodingclub.github.io/course_home/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
+### Stream 1 <a href="https://ourcodingclub.github.io/course/stats-scratch/index.html" target="_blank">Stats from Scratch</a> of Coding Club's <a href="https://ourcodingclub.github.io/course/" target="_blank"> *Data Science for Ecologists and Environmental Scientists* </a> course
 
 Here you will find all the course materials for the "Stats from Scratch" stream of our Data Science course, e.g. the datasets used in the tutorials, and occasionally some starter scripts. 
 
